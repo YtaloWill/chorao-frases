@@ -6,6 +6,6 @@
 
 const choraoFrases = require("chorao-frases")
 
-console.log(chorao())
+console.log(choraoFrases())
 
 ```
