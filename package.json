@@ -1,0 +1,19 @@
+{
+  "name": "chorao-frases",
+  "version": "1.0.0",
+  "description": "Frases do chorao",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["music", "artist", "cbjr", "chorao", "tic uon tic brei"],
+  "author": "YtaloWill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YtaloWill/chorao-frases/issues"
+  },
+  "bin": {
+    "chorao-frases": "./index.js"
+  },
+  "homepage": "https://github.com/YtaloWill/chorao-frases#readme"
+}
